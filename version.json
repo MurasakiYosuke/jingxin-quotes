@@ -1,5 +1,5 @@
 {
-  "latestVersion": "1.0.0",
-  "updateNote": "初始版本，包含每日一句8条 + 修心短文4篇",
+  "latestVersion": "1.0.1",
+  "updateNote": "初始测试版本，用于测试版本更新功能",
   "quotesFile": "quotes.json"
 }
