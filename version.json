@@ -1,0 +1,5 @@
+{
+  "latestVersion": "1.0.0",
+  "updateNote": "初始版本，包含每日一句8条 + 修心短文4篇",
+  "quotesFile": "quotes.json"
+}
