@@ -10,6 +10,16 @@
       "version": "1.0.0",
       "description": "道家经典，凡八十一章，言简意赅，蕴含深邃的东方智慧。",
       "filename": "daodejing.md"
+    },
+    {
+      "id": "liaofansixun",
+      "title": "了凡四训",
+      "author": "袁黄",
+      "format": "epub",
+      "size": 24425,
+      "version": "1.0.0",
+      "description": "由立命之学、改过之法、积善之方、谦德之效四篇组成的明代家训与劝善读物。",
+      "filename": "liaofansixun.epub"
     }
   ]
 }
