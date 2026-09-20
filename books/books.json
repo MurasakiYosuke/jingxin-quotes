@@ -1,0 +1,15 @@
+{
+  "version": "1.0.0",
+  "books": [
+    {
+      "id": "daodejing",
+      "title": "道德经",
+      "author": "老子",
+      "format": "md",
+      "size": 21075,
+      "version": "1.0.0",
+      "description": "道家经典，凡八十一章，言简意赅，蕴含深邃的东方智慧。",
+      "filename": "daodejing.md"
+    }
+  ]
+}
