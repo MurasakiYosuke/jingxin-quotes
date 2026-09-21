@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "books": [
     {
       "id": "daodejing",
@@ -9,7 +9,8 @@
       "size": 21075,
       "version": "1.0.0",
       "description": "道家经典，凡八十一章，言简意赅，蕴含深邃的东方智慧。",
-      "filename": "daodejing.md"
+      "filename": "daodejing.md",
+      "cover": "daodejing.jpg"
     },
     {
       "id": "liaofansixun",
@@ -19,7 +20,19 @@
       "size": 24425,
       "version": "1.0.0",
       "description": "由立命之学、改过之法、积善之方、谦德之效四篇组成的明代家训与劝善读物。",
-      "filename": "liaofansixun.epub"
+      "filename": "liaofansixun.epub",
+      "cover": "liaofansixun.jpg"
+    },
+    {
+     "id": "xinjing",
+     "title": "心经",
+     "author": "玄奘法师 译",
+     "format": "epub",
+     "size": 3362,
+     "version": "1.0.0",
+     "description": "般若波罗蜜多心经，玄奘法师译本，全文二百余字。",
+     "filename": "xinjing.epub",
+     "cover": "xinjing.jpg"
     }
   ]
 }
