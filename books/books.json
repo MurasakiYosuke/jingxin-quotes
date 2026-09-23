@@ -1,6 +1,17 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "books": [
+    {
+     "id": "xinjing",
+     "title": "心经",
+     "author": "玄奘法师 译",
+     "format": "epub",
+     "size": 3362,
+     "version": "1.0.0",
+     "description": "般若波罗蜜多心经，玄奘法师译本，全文二百余字。",
+     "filename": "xinjing.epub",
+     "cover": "xinjing.jpg"
+    },
     {
       "id": "daodejing",
       "title": "道德经",
@@ -13,26 +24,37 @@
       "cover": "daodejing.jpg"
     },
     {
+     "id": "zhuangzi",
+     "title": "庄子",
+     "author": "庄周",
+     "format": "epub",
+     "size": 141459,
+     "version": "1.0.0",
+     "description": "先秦道家经典，阐逍遥齐物思想，以寓言论万物与人生。",
+     "filename": "zhuangzi.epub",
+     "cover": "zhuangzi.jpg"
+    },
+    {
+     "id": "xunzi",
+     "title": "荀子",
+     "author": "荀况 及其弟子",
+     "format": "epub",
+     "size": 148902,
+     "version": "1.0.0",
+     "description": "战国末儒家文献，共32篇，倡礼义劝学，含理性天道名实思想。",
+     "filename": "xunzi.epub",
+     "cover": "xunzi.jpg"
+    },
+    {
       "id": "liaofansixun",
       "title": "了凡四训",
       "author": "袁黄",
       "format": "epub",
       "size": 24425,
       "version": "1.0.0",
-      "description": "由立命之学、改过之法、积善之方、谦德之效四篇组成的明代家训与劝善读物。",
+      "description": "明代劝善家训，分四篇，以自身经历劝人向善守谦。",
       "filename": "liaofansixun.epub",
       "cover": "liaofansixun.jpg"
-    },
-    {
-     "id": "xinjing",
-     "title": "心经",
-     "author": "玄奘法师 译",
-     "format": "epub",
-     "size": 3362,
-     "version": "1.0.0",
-     "description": "般若波罗蜜多心经，玄奘法师译本，全文二百余字。",
-     "filename": "xinjing.epub",
-     "cover": "xinjing.jpg"
     }
   ]
 }
