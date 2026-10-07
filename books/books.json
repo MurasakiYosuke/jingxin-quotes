@@ -41,9 +41,20 @@
      "format": "epub",
      "size": 148902,
      "version": "1.0.0",
-     "description": "战国末儒家文献，共32篇，倡礼义劝学，含理性天道名实思想。",
+     "description": "战国末儒家著作，倡礼义劝学，含理性天道名实思想。",
      "filename": "xunzi.epub",
      "cover": "xunzi.jpg"
+    },
+    {
+     "id": "huainanzi",
+     "title": "淮南子",
+     "author": "刘安",
+     "format": "epub",
+     "size": 247903,
+     "version": "1.0.0",
+     "description": "西汉综合性思想巨著，融道儒法阴阳，以“道”统万事。",
+     "filename": "huainanzi.epub",
+     "cover": "huainanzi.jpg"
     },
     {
       "id": "liaofansixun",
@@ -55,6 +66,28 @@
       "description": "明代劝善家训，分四篇，以自身经历劝人向善守谦。",
       "filename": "liaofansixun.epub",
       "cover": "liaofansixun.jpg"
+    },
+    {
+      "id": "chuanxilu",
+      "title": "传习录",
+      "author": "王阳明",
+      "format": "epub",
+      "size": 122030,
+      "version": "1.0.0",
+      "description": "明代心学经典语录，倡知行合一、致良知。",
+      "filename": "chuanxilu.epub",
+      "cover": "chuanxilu.jpg"
+    },
+    {
+      "id": "caigentan",
+      "title": "菜根谭",
+      "author": "洪应明",
+      "format": "epub",
+      "size": 29309,
+      "version": "1.0.0",
+      "description": "“嚼得菜根，做得大事。”明代藏尽儒释道智慧的语录集。",
+      "filename": "caigentan.epub",
+      "cover": "caigentan.jpg"
     }
   ]
 }
