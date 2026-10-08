@@ -1,5 +1,5 @@
 {
-  "latestVersion": "1.0.2",
-  "updateNote": "新增8条每日一句",
+  "latestVersion": "1.2.0",
+  "updateNote": "新增60+条每日一句",
   "quotesFile": "quotes.json"
 }
