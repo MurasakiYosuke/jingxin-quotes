@@ -7,7 +7,7 @@
      "author": "玄奘法师 译",
      "format": "epub",
      "size": 3362,
-     "version": "1.0.0",
+     "version": "1.2.0",
      "description": "般若波罗蜜多心经，玄奘法师译本，全文二百余字。",
      "filename": "xinjing.epub",
      "cover": "xinjing.jpg"
@@ -18,7 +18,7 @@
       "author": "老子",
       "format": "md",
       "size": 21075,
-      "version": "1.0.0",
+      "version": "1.2.0",
       "description": "道家经典，凡八十一章，言简意赅，蕴含深邃的东方智慧。",
       "filename": "daodejing.md",
       "cover": "daodejing.jpg"
@@ -29,7 +29,7 @@
      "author": "庄周",
      "format": "epub",
      "size": 141459,
-     "version": "1.0.0",
+     "version": "1.2.0",
      "description": "先秦道家经典，阐逍遥齐物思想，以寓言论万物与人生。",
      "filename": "zhuangzi.epub",
      "cover": "zhuangzi.jpg"
@@ -40,7 +40,7 @@
      "author": "荀况 及其弟子",
      "format": "epub",
      "size": 148902,
-     "version": "1.0.0",
+     "version": "1.2.0",
      "description": "战国末儒家著作，倡礼义劝学，含理性天道名实思想。",
      "filename": "xunzi.epub",
      "cover": "xunzi.jpg"
@@ -51,7 +51,7 @@
      "author": "刘安",
      "format": "epub",
      "size": 247903,
-     "version": "1.0.0",
+     "version": "1.2.0",
      "description": "西汉综合性思想巨著，融道儒法阴阳，以“道”统万事。",
      "filename": "huainanzi.epub",
      "cover": "huainanzi.jpg"
@@ -62,7 +62,7 @@
       "author": "袁黄",
       "format": "epub",
       "size": 24425,
-      "version": "1.0.0",
+      "version": "1.2.0",
       "description": "明代劝善家训，分四篇，以自身经历劝人向善守谦。",
       "filename": "liaofansixun.epub",
       "cover": "liaofansixun.jpg"
@@ -73,7 +73,7 @@
       "author": "王阳明",
       "format": "epub",
       "size": 122030,
-      "version": "1.0.0",
+      "version": "1.2.0",
       "description": "明代心学经典语录，倡知行合一、致良知。",
       "filename": "chuanxilu.epub",
       "cover": "chuanxilu.jpg"
@@ -84,7 +84,7 @@
       "author": "洪应明",
       "format": "epub",
       "size": 29309,
-      "version": "1.0.0",
+      "version": "1.2.0",
       "description": "“嚼得菜根，做得大事。”明代藏尽儒释道智慧的语录集。",
       "filename": "caigentan.epub",
       "cover": "caigentan.jpg"
