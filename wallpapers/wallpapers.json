@@ -1,0 +1,19 @@
+{
+  "version": "1.0.0",
+  "wallpapers": [
+    {
+      "id": "lotus-mist",
+      "title": "莲雾",
+      "theme": "modern",
+      "file": "lotus-mist.jpg",
+      "thumb": "lotus-mist.jpg",
+      "width": 1536,
+      "height": 2730,
+      "position": "center",
+      "tags": ["现代", "禅意", "莲花"],
+      "darkVariant": null,
+      "price": 0,
+      "version": "1.0.0"
+    }
+  ]
+}
